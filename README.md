@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm Arichy from China, working at Douyin(Chinese TikTok) now and living in Beijing.
+I'm working at Douyin(Chinese TikTok) now and living in Beijing.
 
-I'm a frontend developer with 4 months working experience.
+I'm a frontend developer with 2 years of working experience.
 
 I'm interested in JavaScript, React, Babel, Webpack...
-
-I like playing 王者荣耀(Chinese AOV), good at AP.
 
 <!--
 **Arichy/Arichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
