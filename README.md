@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm working at Douyin(Chinese TikTok) now and living in Beijing.
+I'm working at LinkedIn now and living in Beijing.
 
-I'm a frontend developer with 2 years of working experience.
+I used to work at ByteDance from 2019.09 to 2022.05.
+
+I'm a frontend developer with 3 years of working experience.
 
 I'm interested in JavaScript, React, Babel, Webpack...
 
