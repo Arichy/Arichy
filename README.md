@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm working at LinkedIn now and living in Beijing.
+I'm working at Tubi now and living in Beijing.
 
-I used to work at ByteDance from 2019.09 to 2022.05.
+I used to work at ByteDance from 2019.09 to 2022.05, at LinkedIn from 2022.06 to 2023.06.
 
 I'm a frontend developer with 3 years of working experience.
 
