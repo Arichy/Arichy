@@ -4,7 +4,7 @@ Frontend Engineer.
 
 Interested in JavaScript, React, etc.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arichy)](https://github.com/Arichy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arichy)](https://github.com/Arichy?tab=repositories)
 
 <!--
 **Arichy/Arichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
