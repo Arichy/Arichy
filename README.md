@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-I'm working as a Frontend Engineer and live in Beijing.
+Frontend Engineer.
 
-I used to work at ByteDance from 2019.09 to 2022.05, at LinkedIn from 2022.06 to 2023.06.
+Interested in JavaScript, React, etc.
 
-I have 4 years of working experience now.
-
-I'm interested in JavaScript, React, VSCode, etc. Rust, but very new to it.
-
-Besides, travelling lover.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arichy)](https://github.com/Arichy/github-readme-stats)
 
 <!--
 **Arichy/Arichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
