@@ -2,7 +2,17 @@
 
 Frontend Engineer.
 
-Interested in JavaScript, React, etc.
+### Programming Languages
+![Programing Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,rust&perline=8&theme=dark)
+
+### Libraries & Runtimes
+![Libraries & Runtimes](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tauri,nodejs,bun,pnpm&perline=8&theme=dark)
+
+### Tools
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=arc,zen,vscode,apple&perline=8&theme=dark)
+
+### AI Helpers
+![AI Helpers](https://go-skill-icons.vercel.app/api/icons?i=gemini,chatgpt,deepseek&perline=8&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Arichy&theme=algolia&layout=donut)](https://github.com/Arichy?tab=repositories)
 
