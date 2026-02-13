@@ -9,10 +9,10 @@ Frontend Engineer.
 ![Libraries & Runtimes](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tauri,nodejs,bun,pnpm&perline=8&theme=dark)
 
 ### Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=arc,zen,vscode,apple&perline=8&theme=dark)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=arc,zen,vscode,cursor,apple&perline=8&theme=dark)
 
 ### AI Helpers
-![AI Helpers](https://go-skill-icons.vercel.app/api/icons?i=gemini,chatgpt,deepseek&perline=8&theme=dark)
+![AI Helpers](https://go-skill-icons.vercel.app/api/icons?i=claude,gemini,chatgpt,deepseek&perline=8&theme=dark)
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Arichy&theme=algolia&layout=donut)](https://github.com/Arichy?tab=repositories)
 
