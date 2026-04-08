@@ -3,10 +3,10 @@
 Frontend Engineer.
 
 ### Programming Languages
-![Programing Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,rust&perline=8&theme=dark)
+![Programing Languages](https://go-skill-icons.vercel.app/api/icons?i=rust,ts,js&perline=8&theme=dark)
 
 ### Libraries & Runtimes
-![Libraries & Runtimes](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tauri,nodejs,bun,pnpm&perline=8&theme=dark)
+![Libraries & Runtimes](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tauri,bun,nodejs,pnpm&perline=8&theme=dark)
 
 ### Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=arc,zen,vscode,cursor,apple&perline=8&theme=dark)
