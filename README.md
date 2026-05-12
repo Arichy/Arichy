@@ -14,10 +14,10 @@ Frontend Engineer.
 ### AI Helpers
 ![AI Helpers](https://go-skill-icons.vercel.app/api/icons?i=claude,gemini,chatgpt,deepseek&perline=8&theme=dark)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Arichy&theme=algolia&layout=donut)](https://github.com/Arichy?tab=repositories)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=arichyx&theme=algolia&layout=donut)](https://github.com/arichyx?tab=repositories)
 
 <!--
-**Arichy/Arichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arichyx/arichyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
